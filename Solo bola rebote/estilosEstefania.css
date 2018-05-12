@@ -1,0 +1,42 @@
+@charset "utf-8";
+@import url('http://fonts.googleapis.com/css?family=Aladin');
+/* CSS Document */
+body{
+	font-family: 'Aladin';
+	font-size: 20px;
+	text-align: center;
+	align-items: center;
+}
+.lienz{
+	margin-top: 50px;
+	background-color: rgba(15,16,11,0.5);
+	border: 3px solid #000;
+}
+.seccionTitulo{
+	margin-top: 50px;
+	background-color: rgba(14,0,140,0.30);
+	font-size: 80px;
+	color:#8567FF;
+}
+.botonIniciar{
+	background-color:#B7A9FF;
+	border: none;
+	color: #36133A;
+	width: 120px;
+	height:50px;
+	text-align: center;
+	text-decoration: none;
+	border-radius: 5px;
+	font-size: 18px;
+}
+.botonIniciar:hover{
+	background-color: #36133A;
+	color: #B7A9FF;	
+}
+.seccionBoton{
+	margin-top: 15px;
+}
+.creditos {
+	margin-top: 25px;
+	background-color: rgba(14,0,140,0.30);
+}
